@@ -11,13 +11,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="feibonaqishulie.go" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/feibonaqishulie.go">
+      <file leaf-file-name="error.go" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/error.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="13" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+            <state relative-caret-position="158">
+              <caret line="13" column="46" lean-forward="false" selection-start-line="13" selection-start-column="46" selection-end-line="13" selection-end-column="46" />
               <folding>
-                <element signature="e#14#26#0" expanded="true" />
+                <element signature="e#14#31#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -52,6 +52,9 @@
         <option value="$PROJECT_DIR$/jiesheng.go" />
         <option value="$PROJECT_DIR$/jiecheng.go" />
         <option value="$PROJECT_DIR$/feibonaqishulie.go" />
+        <option value="$PROJECT_DIR$/yuyanleixingzhuanhuan.go" />
+        <option value="$PROJECT_DIR$/interfacetest.go" />
+        <option value="$PROJECT_DIR$/error.go" />
       </list>
     </option>
   </component>
@@ -62,8 +65,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="627" />
-    <option name="y" value="133" />
+    <option name="x" value="674" />
+    <option name="y" value="61" />
     <option name="width" value="1260" />
     <option name="height" value="695" />
   </component>
@@ -115,7 +118,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Go Build.go build map.go">
+  <component name="RunManager" selected="Go Build.go build error.go">
     <configuration name="go build constant.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
       <module name="lccProject1" />
       <working_directory value="$PROJECT_DIR$/" />
@@ -124,12 +127,12 @@
       <filePath value="$PROJECT_DIR$/constant.go" />
       <directory value="$PROJECT_DIR$/" />
     </configuration>
-    <configuration name="go build hello.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
+    <configuration name="go build error.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
       <module name="lccProject1" />
       <working_directory value="$PROJECT_DIR$/" />
       <go_parameters value="-i" />
       <kind value="FILE" />
-      <filePath value="$PROJECT_DIR$/hello.go" />
+      <filePath value="$PROJECT_DIR$/error.go" />
       <directory value="$PROJECT_DIR$/" />
     </configuration>
     <configuration name="go build luoji.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
@@ -157,19 +160,19 @@
       <directory value="$PROJECT_DIR$/" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Go Build.go build hello.go" />
-      <item index="1" class="java.lang.String" itemvalue="Go Build.go build constant.go" />
-      <item index="2" class="java.lang.String" itemvalue="Go Build.go build luoji.go" />
-      <item index="3" class="java.lang.String" itemvalue="Go Build.go build range.go" />
-      <item index="4" class="java.lang.String" itemvalue="Go Build.go build map.go" />
+      <item index="0" class="java.lang.String" itemvalue="Go Build.go build constant.go" />
+      <item index="1" class="java.lang.String" itemvalue="Go Build.go build luoji.go" />
+      <item index="2" class="java.lang.String" itemvalue="Go Build.go build range.go" />
+      <item index="3" class="java.lang.String" itemvalue="Go Build.go build map.go" />
+      <item index="4" class="java.lang.String" itemvalue="Go Build.go build error.go" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Go Build.go build map.go" />
-        <item index="1" class="java.lang.String" itemvalue="Go Build.go build range.go" />
-        <item index="2" class="java.lang.String" itemvalue="Go Build.go build luoji.go" />
-        <item index="3" class="java.lang.String" itemvalue="Go Build.go build constant.go" />
-        <item index="4" class="java.lang.String" itemvalue="Go Build.go build hello.go" />
+        <item index="0" class="java.lang.String" itemvalue="Go Build.go build error.go" />
+        <item index="1" class="java.lang.String" itemvalue="Go Build.go build map.go" />
+        <item index="2" class="java.lang.String" itemvalue="Go Build.go build range.go" />
+        <item index="3" class="java.lang.String" itemvalue="Go Build.go build luoji.go" />
+        <item index="4" class="java.lang.String" itemvalue="Go Build.go build constant.go" />
       </list>
     </recent_temporary>
   </component>
@@ -177,7 +180,7 @@
     <option name="remove_strategy" value="false" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="627" y="133" width="1260" height="695" extended-state="0" />
+    <frame x="674" y="61" width="1260" height="695" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
@@ -185,7 +188,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32744783" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32744783" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
@@ -229,14 +232,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file:///usr/local/Cellar/go/1.10/libexec/src/builtin/builtin.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="96" column="6" lean-forward="false" selection-start-line="96" selection-start-column="6" selection-end-line="96" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/gotips_test.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
@@ -381,6 +376,44 @@
           <caret line="12" column="13" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
           <folding>
             <element signature="e#14#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yuyanleixingzhuanhuan.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding>
+            <element signature="e#14#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interfacetest.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding>
+            <element signature="e#14#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/local/Cellar/go/1.10/libexec/src/builtin/builtin.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="70" column="5" lean-forward="false" selection-start-line="70" selection-start-column="5" selection-end-line="70" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/error.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="13" column="46" lean-forward="false" selection-start-line="13" selection-start-column="46" selection-end-line="13" selection-end-column="46" />
+          <folding>
+            <element signature="e#14#31#0" expanded="true" />
           </folding>
         </state>
       </provider>
